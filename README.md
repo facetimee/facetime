@@ -31,7 +31,7 @@ camera open, face-detect, eye-detct, face-recognition를 수행할 코드를 작
 * **데이터셋** <br>
 분류기가 인식할 인물 사진 수집 -> 이 부분은 진행중에 있음
 
-
+<h3>https://drive.google.com/drive/u/2/my-drive</h3>
 
 <h2>전체 계획대비 진행상황</h2> 
 
