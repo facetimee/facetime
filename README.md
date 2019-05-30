@@ -28,7 +28,7 @@
 
 <h2>예상되는 결과</h2>
 >
-![Alt text](/path/to/a.jpg)
+![Alt text](a.jpg)
 
 
 <h2>참고자료</h2>
