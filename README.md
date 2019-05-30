@@ -33,7 +33,7 @@
 
 <h2>참고자료</h2>
 
-| 사이트
+num| 사이트
 --------- | ---------
 1 | <https://medium.com/data-science-lab-amsterdam/face-recognition-with-python-in-an-hour-or-two-d271324cbeb3>
 2 | https://www.codemade.io/the-worlds-simplest-facial-recognition-api-for-python-and-the-command-line/
