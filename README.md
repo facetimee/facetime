@@ -28,7 +28,7 @@
 
 <h2>예상되는 결과</h2>
 >
-![Alt text](a.jpg)
+![alt text](a.jpg)
 
 
 <h2>참고자료</h2>
